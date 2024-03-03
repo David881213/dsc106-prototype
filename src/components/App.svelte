@@ -1,13 +1,14 @@
 <script>
-  // Write your JS here, or import other files
+    import BarChart from './Prototype.svelte';
+
+
+
 </script>
 
+
+
+
 <main>
-  <h1>Svelte template</h1>
+    <Prototype />
 
-  <p>Write your HTML here</p>
 </main>
-
-<style>
-  /* Write your CSS here */
-</style>
